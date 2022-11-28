@@ -65,6 +65,7 @@
             this.CmdAdd.TabIndex = 2;
             this.CmdAdd.Text = "Add";
             this.CmdAdd.UseVisualStyleBackColor = true;
+            this.CmdAdd.Click += new System.EventHandler(this.CmdAdd_Click);
             // 
             // CmdEdit
             // 

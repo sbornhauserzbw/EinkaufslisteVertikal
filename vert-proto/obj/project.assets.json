@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stephane\\Documents\\zbw\\ZbW_Semester3\\SEngineering\\02_20221121\\Präs-Prototyping\\code\\vert-proto\\vert-proto\\vert-proto.csproj",
+      "projectUniqueName": "C:\\Users\\stephane\\Documents\\zbw\\ZbW_Semester3\\SEngineering\\02_20221121\\Präs-Prototyping\\code\\10_vert-proto_erster-vert-ausbau\\vert-proto\\vert-proto.csproj",
       "projectName": "vert-proto",
-      "projectPath": "C:\\Users\\stephane\\Documents\\zbw\\ZbW_Semester3\\SEngineering\\02_20221121\\Präs-Prototyping\\code\\vert-proto\\vert-proto\\vert-proto.csproj",
+      "projectPath": "C:\\Users\\stephane\\Documents\\zbw\\ZbW_Semester3\\SEngineering\\02_20221121\\Präs-Prototyping\\code\\10_vert-proto_erster-vert-ausbau\\vert-proto\\vert-proto.csproj",
       "packagesPath": "C:\\Users\\stephane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stephane\\Documents\\zbw\\ZbW_Semester3\\SEngineering\\02_20221121\\Präs-Prototyping\\code\\vert-proto\\vert-proto\\obj\\",
+      "outputPath": "C:\\Users\\stephane\\Documents\\zbw\\ZbW_Semester3\\SEngineering\\02_20221121\\Präs-Prototyping\\code\\10_vert-proto_erster-vert-ausbau\\vert-proto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stephane\\AppData\\Roaming\\NuGet\\NuGet.Config",
