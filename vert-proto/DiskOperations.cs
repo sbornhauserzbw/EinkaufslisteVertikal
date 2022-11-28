@@ -16,5 +16,11 @@ namespace vert_proto
         {
             throw new NotImplementedException();
         }
+
+        // Ausbau in die Vertikale 4
+        public List<string> LoadFromDisk()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

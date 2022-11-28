@@ -11,6 +11,10 @@ namespace vert_proto
         {
             CmbBoxList.SelectedIndex= 0;
             TxtShopping.Select();
+
+            // Ausbau in die Vertikale (5)
+            DiskOperations diskOp = new DiskOperations();
+            LstShopping.Items.AddRange(diskOp.LoadFromDisk().ToArray());
         }
 
         private void CmdAdd_Click(object sender, EventArgs e)
